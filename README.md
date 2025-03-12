@@ -13,8 +13,8 @@ This repo contains my study notes, key concepts, useful resources, and cheat she
 ---
 
 ## **📖 Key Topics Covered**
-✔️ **[Matplotlib]** – Introduction, Plots
-✔️ **[Different types of plots]** – Line Graph, Scatter plot, Histogram, Bar Chart  
+✔️ **Matplotlib** – Introduction, Plots  
+✔️ **Different types of plots** – Line Graph, Scatter plot, Histogram, Bar Chart
 
 ---
 
